@@ -1,6 +1,7 @@
 
 # The GUI is made using "Warndorff's rule"
-# check "" for this algorithm implementation
+# check "https://github.com/RezaFirouzii/knights-tour_AI-problem/blob/main/3.%20Warnsdorff's%20rule%20solution/warnsdorffs_rule.py"
+# for this algorithm implementation
 
 from pygame_utils import *
 import os
